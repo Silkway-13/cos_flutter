@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "415904468257",
+    "project_id": "cosworkstore",
+    "storage_bucket": "cosworkstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415904468257:android:697326de28870784b0c260",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415904468257-p4pmn0l66kgh112gagprkna5595u7a0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "48976aaeff501fd15f872d067cccf8f478f314a4"
+          }
+        },
+        {
+          "client_id": "415904468257-7tp0g1b61rlgq11o1g6qth26pcqq7egb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL851GtwV0yIq0ismq9I51dP6h-ArF1Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415904468257-7tp0g1b61rlgq11o1g6qth26pcqq7egb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415904468257-61sekt4v0mlqqjvbicriooo2kbvvce34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cosWorkStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415904468257:android:0f863c4ec7a80487b0c260",
+        "android_client_info": {
+          "package_name": "com.example.cos_work_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415904468257-7tp0g1b61rlgq11o1g6qth26pcqq7egb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL851GtwV0yIq0ismq9I51dP6h-ArF1Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415904468257-7tp0g1b61rlgq11o1g6qth26pcqq7egb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415904468257-61sekt4v0mlqqjvbicriooo2kbvvce34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cosWorkStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
